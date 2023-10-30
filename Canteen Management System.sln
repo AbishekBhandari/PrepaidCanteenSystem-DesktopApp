@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canteen Management System", "Canteen Management System\Canteen Management System.csproj", "{08B3BB6D-0927-40E2-A5CB-C20CD78E98FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08B3BB6D-0927-40E2-A5CB-C20CD78E98FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B3BB6D-0927-40E2-A5CB-C20CD78E98FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B3BB6D-0927-40E2-A5CB-C20CD78E98FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B3BB6D-0927-40E2-A5CB-C20CD78E98FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {233F74C5-B484-4F6B-9EF1-9E2A6D6A1981}
+	EndGlobalSection
+EndGlobal

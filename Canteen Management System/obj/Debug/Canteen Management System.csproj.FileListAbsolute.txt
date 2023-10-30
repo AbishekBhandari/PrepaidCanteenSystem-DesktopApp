@@ -1,0 +1,74 @@
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\bin\Debug\Canteen Management System.exe.config
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\bin\Debug\Canteen Management System.exe
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\bin\Debug\Canteen Management System.pdb
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen Management System.csproj.AssemblyReference.cache
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.frmMenu.resources
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.Properties.Resources.resources
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen Management System.csproj.GenerateResource.cache
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen Management System.csproj.CoreCompileInputs.cache
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen Management System.exe
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen Management System.pdb
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.UI.frmLogin.resources
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.UI.frmAdmin.resources
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.UI.AddProduct.resources
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.UI.AddCategory.resources
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.UI.Login.resources
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\bin\Debug\AForge.dll
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\bin\Debug\AForge.Video.dll
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\bin\Debug\zxing.dll
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\bin\Debug\zxing.presentation.dll
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\bin\Debug\AForge.xml
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\bin\Debug\AForge.Video.xml
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\bin\Debug\zxing.xml
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\bin\Debug\zxing.presentation.xml
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.UI.QRLogin.resources
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen Management System.csproj.CopyComplete
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.UI.ViewAllProducts.resources
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.UI.UpdateProducts.resources
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.UI.ViewAllCategories.resources
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.UI.CashForm.resources
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.UI.Register.resources
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.UI.ViewAllSales.resources
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\bin\Debug\QRCoder.dll
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.UI.UpdateCategory.resources
+C:\Users\Abishek\Desktop\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.UI.Password.resources
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\bin\Debug\Canteen Management System.exe.config
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\bin\Debug\Canteen Management System.exe
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\bin\Debug\Canteen Management System.pdb
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\bin\Debug\AForge.dll
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\bin\Debug\AForge.Video.dll
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\bin\Debug\QRCoder.dll
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\bin\Debug\zxing.dll
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\bin\Debug\zxing.presentation.dll
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\bin\Debug\AForge.xml
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\bin\Debug\AForge.Video.xml
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\bin\Debug\zxing.xml
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\bin\Debug\zxing.presentation.xml
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen Management System.csproj.AssemblyReference.cache
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen_Management_System.UI.AddCategory.resources
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen_Management_System.UI.AddProduct.resources
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen_Management_System.UI.CashForm.resources
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen_Management_System.UI.frmAdmin.resources
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen_Management_System.UI.frmLogin.resources
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen_Management_System.frmMenu.resources
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen_Management_System.Properties.Resources.resources
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen_Management_System.UI.Login.resources
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen_Management_System.UI.Password.resources
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen_Management_System.UI.QRLogin.resources
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen_Management_System.UI.Register.resources
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen_Management_System.UI.UpdateCategory.resources
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen_Management_System.UI.UpdateProducts.resources
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen_Management_System.UI.ViewAllCategories.resources
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen_Management_System.UI.ViewAllProducts.resources
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen_Management_System.UI.ViewAllSales.resources
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen Management System.csproj.GenerateResource.cache
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen Management System.csproj.CoreCompileInputs.cache
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen Management System.csproj.CopyComplete
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen Management System.exe
+C:\Users\Abishek\Desktop\pdf\Canteen Management SystemShow\Canteen Management System\obj\Debug\Canteen Management System.pdb
